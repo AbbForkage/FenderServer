@@ -1,0 +1,278 @@
+#header{
+        background-color:#3C3C3C;
+}
+
+body {
+        background:#8E8E8E
+;
+}
+
+.backdrop {
+        background-image: url("http://i.imgur.com/Q5TXvZk.jpg");background-repeat:no-repeat;background-position:center}
+}
+
+.ps-room .battle-log-add {
+    background-color:#003D99
+}
+
+.trainer strong {
+        color:#0070ba;
+}
+
+.battle-log h2 {
+        background-color:#666666;
+        border-color:#3C3C3C;
+}
+
+.chat small {
+        color:#8E8E8E
+}
+
+.userlist li em.group {
+        color:#0000FF;
+}
+
+.pm-window.focused h3:hover {
+        background-color:#006666;
+        border-color:#006666;
+}
+
+.pm-window.focused h3 {
+        background-color:#006666;
+        border-color:#006666;
+}
+
+.pm-window h3 {
+        background-color:#004747;
+        border-color:#004747;
+}
+
+.pm-log-add {
+        background-color:#8E8E8E;
+        border-color:#009999;
+}
+
+.pm-log-add.focused {
+        background-color:#004747;
+        border-color:#004747;
+}
+
+.chat-log-add {
+        background-color:#555555
+}
+
+.mainmenuwrapper {
+        background-image:url("http://i.imgur.com/cttptGI.jpg");
+}
+
+.chat-log {
+        background: url("http://i.imgur.com/zW0K4N1.png") right top no-repeat;
+        #font-size:10pt;
+        #overflow:auto
+}
+
+.menugroup .button{
+        background:#999999
+}
+
+.menugroup .menugroup{
+        text-align:center
+}
+
+.button:hover{
+        background:#007A7A
+}
+
+.userlist {
+        border-left:1px solid #009999;
+        background:#8E8E8E;
+}
+
+.button-black {
+        padding:5px;
+        background-color:black;
+        border:1px solid #666;
+        color: white;
+}
+
+.button-blue {
+        padding:5px;
+        background-color:#003D99;
+        border:1px solid #8dcbf0;
+        color: #d8d8d8;
+}
+
+.button-blue:hover {
+        background:#003D99;
+}
+
+.astext {
+    background:none;
+    border:none;
+    margin:0;
+    padding:0;
+}
+
+/**************************
+* For the colour commands *
+**************************/
+
+.motc-blue {
+        background: #6464FF;
+        border: 3px solid #0B0BA6;
+        border-radius: 10px;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -khtml-border-radius: 10px;
+        -icab-border-radius: 10px;
+        -o-border-radius: 10px;
+        -webkit-border-top-left-radius: 5px;
+}
+
+.motc-blue-tr {
+        background: #94DBEE
+}
+
+.motc-red {
+        background: #E24242;
+        border: 3px solid #A60B0B;
+        border-radius: 10px;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -khtml-border-radius: 10px;
+        -icab-border-radius: 10px;
+        -o-border-radius: 10px;
+        -webkit-border-top-left-radius: 5px;
+}
+
+.motc-red-tr {
+        background: #EC8484;
+}
+
+.motc-yellow {
+        background: #FFD733;
+        border: 3px solid #A68C21;
+        border-radius: 10px;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -khtml-border-radius: 10px;
+        -icab-border-radius: 10px;
+        -o-border-radius: 10px;
+        -webkit-border-top-left-radius: 5px;
+}
+
+.motc-yellow-tr {
+        background: #FFFF99;
+}
+
+.motc-green {
+        background: #11BB11;
+        border: 3px solid #0B7A0B;
+        border-radius: 10px;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -khtml-border-radius: 10px;
+        -icab-border-radius: 10px;
+        -o-border-radius: 10px;
+        -webkit-border-top-left-radius: 5px;
+}
+
+.motc-green-tr {
+        background: #64D364;
+}
+
+.motc-black {
+        background: #858585;
+        border: 3px solid #2C2C2C;
+        border-radius: 10px;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -khtml-border-radius: 10px;
+        -icab-border-radius: 10px;
+        -o-border-radius: 10px;
+        -webkit-border-top-left-radius: 5px;
+}
+
+.motc-black-tr {
+        background: #BBBBBB;
+}
+
+.motc-brown {
+        background: brown;
+        border: 3px solid #704214;
+        border-radius: 10px;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -khtml-border-radius: 10px;
+        -icab-border-radius: 10px;
+        -o-border-radius: 10px;
+        -webkit-border-top-left-radius: 5px;
+}
+
+.motc-brown-tr {
+        background: #CC9966;
+}
+
+.motc-purple {
+        background: #A040A0;
+        border: 3px solid #682A68;
+        border-radius: 10px;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -khtml-border-radius: 10px;
+        -icab-border-radius: 10px;
+        -o-border-radius: 10px;
+        -webkit-border-top-left-radius: 5px;
+}
+
+.motc-purple-tr {
+        background: #C183C1;
+}
+
+.motc-gray {
+        background: #B8B8D0;
+        border: 3px solid #787887;
+        border-radius: 10px;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -khtml-border-radius: 10px;
+        -icab-border-radius: 10px;
+        -o-border-radius: 10px;
+        -webkit-border-top-left-radius: 5px;
+}
+
+.motc-gray-tr {
+        background: #D1D1E0;
+}
+
+.motc-white {
+        background: #E3CED0;
+        border: 3px solid #929292;
+        border-radius: 10px;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -khtml-border-radius: 10px;
+        -icab-border-radius: 10px;
+        -o-border-radius: 10px;
+        -webkit-border-top-left-radius: 5px;
+}
+
+.motc-white-tr {
+        background: #FFF;
+}
+
+.motc-pink {
+        background: #EE99AC;
+        border: 3px solid #9B6470;
+        border-radius: 10px;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -khtml-border-radius: 10px;
+        -icab-border-radius: 10px;
+        -o-border-radius: 10px;
+        -webkit-border-top-left-radius: 5px;
+}
+
+.motc-pink-tr {
+        background: #F4BDC9;
+}*/

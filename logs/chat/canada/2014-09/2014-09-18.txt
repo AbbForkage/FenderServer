@@ -1,0 +1,33 @@
+15:50:11 NEW CHATROOM: canada
+15:52:38 NEW CHATROOM: canada
+16:02:38 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+16:12:38 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+16:22:38 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+16:32:38 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+16:42:38 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+16:52:38 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+17:02:37 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+17:12:37 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+17:22:37 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+17:32:37 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+17:42:37 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+17:49:39 |j|#QuoteCS
+17:52:37 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|#:0|&:0|~:0
+17:58:39 |j|@sparkychild
+17:59:09 |j|#Corporal Levi
+18:02:37 |userstats|total:3|guests:0| :0|+:1|%:0|@:2|★:0|#:0|&:0|~:0
+18:06:31 |l|#Corporal Levi
+18:12:37 |userstats|total:2|guests:0| :0|+:1|%:0|@:1|★:0|#:0|&:0|~:0
+18:18:42 |N|@sparkychild|sparkychild
+18:18:46 |j|#Corporal Levi
+18:18:53 sparkychild was warned by Corporal Levi. (test test)
+18:18:53 |unlink|sparkychild
+18:19:08 sparkychild was warned by Corporal Levi. (LEWL)
+18:19:08 |unlink|sparkychild
+18:19:45 |l|#Corporal Levi
+18:19:57 |j|@Fiend Hound
+18:20:02 |l|@Fiend Hound
+18:22:37 |userstats|total:2|guests:0| :0|+:1|%:0|@:1|★:0|#:0|&:0|~:0
+18:32:37 |userstats|total:2|guests:0| :0|+:1|%:0|@:1|★:0|#:0|&:0|~:0
+18:42:37 |userstats|total:2|guests:0| :0|+:1|%:0|@:1|★:0|#:0|&:0|~:0
+18:52:37 |userstats|total:2|guests:0| :0|+:1|%:0|@:1|★:0|#:0|&:0|~:0

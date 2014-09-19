@@ -1,0 +1,71 @@
+15:50:11 NEW CHATROOM: staff
+15:50:22 |j|#TheFenderStory
+15:50:29 |l|#TheFenderStory
+15:52:38 NEW CHATROOM: staff
+15:52:54 |j|#TheFenderStory
+16:02:38 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+16:09:00 |j|@Fiend Hound
+16:12:38 |userstats|total:2|guests:0| :0|+:0|%:0|@:1|★:0|#:0|&:0|~:1
+16:21:06 |l|#TheFenderStory
+16:21:09 |j|#TheFenderStory
+16:22:38 |userstats|total:2|guests:0| :0|+:0|%:0|@:1|★:0|#:0|&:0|~:1
+16:25:28 |l|#TheFenderStory
+16:32:38 |userstats|total:1|guests:0| :0|+:0|%:0|@:1|★:0|#:0|&:0|~:0
+16:38:39 |l|@Fiend Hound
+16:42:38 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+16:52:38 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+17:02:37 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+17:12:37 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+17:13:37 |j|@Fiend Hound
+17:17:16 |j|@zeriloa
+17:17:20 |j|@WaterlessMelon
+17:21:18 |l|@WaterlessMelon
+17:22:37 |userstats|total:2|guests:0| :0|+:0|%:0|@:1|★:0|#:0|&:1|~:0
+17:32:37 |userstats|total:2|guests:0| :0|+:0|%:0|@:1|★:0|#:0|&:1|~:0
+17:42:37 |userstats|total:2|guests:0| :0|+:0|%:0|@:1|★:0|#:0|&:1|~:0
+17:43:11 |j| sparkychild
+17:43:11 |N| sparkychild|sparkychild
+17:45:41 |j|#TheFenderStory
+17:46:23 |l|#TheFenderStory
+17:46:25 |j|#TheFenderStory
+17:46:37 |l|#TheFenderStory
+17:46:58 |j|#TheFenderStory
+17:50:47 |l|#TheFenderStory
+17:52:37 |userstats|total:3|guests:0| :0|+:0|%:0|@:2|★:0|#:0|&:1|~:0
+17:58:12 |j|@Corporal Levi
+17:59:02 |l|@Corporal Levi
+18:02:37 |userstats|total:3|guests:0| :0|+:0|%:0|@:2|★:0|#:0|&:1|~:0
+18:02:49 |j|#TheFenderStory
+18:03:10 |l|#TheFenderStory
+18:06:24 |l|@zeriloa
+18:10:04 |j|@Corporal Levi
+18:11:53 |j|‽TheFenderStory
+18:12:01 |N|#TheFenderStory|thefenderstory
+18:12:37 |userstats|total:4|guests:0| :0|+:0|%:0|@:3|★:0|#:0|&:0|~:1
+18:16:03 |l|#TheFenderStory
+18:16:10 |j|#TheFenderStory
+18:16:17 |l|#TheFenderStory
+18:16:23 |j|#TheFenderStory
+18:18:42 sparkychild was promoted to Room Voice by Corporal Levi.
+18:18:42 |N|+sparkychild|sparkychild
+18:18:47 |l|@Corporal Levi
+18:19:46 |l|@Fiend Hound
+18:20:10 |j|@cORPORALLEVi
+18:20:20 |j|@zeriloa
+18:20:27 |N| UNMUTE ME NERD|corporallevi
+18:20:35 |N|@cORPORALLEVi|unmutemenerd
+18:20:49 |l|@cORPORALLEVi
+18:22:37 |userstats|total:3|guests:0| :0|+:0|%:0|@:1|★:0|#:0|&:1|~:1
+18:22:37 |j|‽cORPORALLEVi
+18:22:40 |N|@cORPORALLEVi|corporallevi
+18:29:04 |j| Cheek Pouch
+18:29:04 |N| Cheek Pouch|cheekpouch
+18:29:44 |l|#TheFenderStory
+18:32:37 |userstats|total:4|guests:0| :0|+:0|%:1|@:2|★:0|#:0|&:1|~:0
+18:42:37 |userstats|total:4|guests:0| :0|+:0|%:1|@:2|★:0|#:0|&:1|~:0
+18:47:29 |l|@zeriloa
+18:48:03 |j|#TheFenderStory
+18:51:11 |j|@zeriloa
+18:51:47 |l|@zeriloa
+18:51:54 |j|@zeriloa
+18:52:37 |userstats|total:5|guests:0| :0|+:0|%:1|@:2|★:0|#:0|&:1|~:1

@@ -1,0 +1,956 @@
+15:50:11 NEW CHATROOM: lobby
+15:50:22 |j|~TheFenderStory
+15:52:38 NEW CHATROOM: lobby
+15:52:54 |j|~TheFenderStory
+16:02:38 |userstats|total:1|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:1
+16:06:31 |c|~TheFenderStory|?
+16:06:35 |c|~TheFenderStory|that was weird
+16:06:38 |c|~TheFenderStory|what the fuck did i just do
+16:09:00 |j|@Fiend Hound
+16:09:15 |j|+QuoteCS
+16:09:23 |c|+QuoteCS|Whoa
+16:09:35 |c|@Fiend Hound| /hide doesn't work
+16:09:37 |c|~TheFenderStory|ik
+16:09:41 |c|~TheFenderStory|its a little sketch atm
+16:09:48 |c|~TheFenderStory|but it looks like we're working at least
+16:10:39 |b|battle-randombattle-1|@Fiend Hound|~TheFenderStory
+16:12:38 |userstats|total:3|guests:0| :0|+:1|%:0|@:1|★:0|#:0|&:0|~:1
+16:14:59 |j|%Nodly
+16:15:07 |c|%Nodly|Is antgeezy alive
+16:15:11 |c|%Nodly|Bc cubone
+16:15:13 |l|%Nodly
+16:15:53 |j|%Nodly
+16:16:26 |c|@Fiend Hound|did ant quit ps?
+16:16:42 QuoteCS was muted by Nodly for 7 minutes. (the tables have turned ;))
+16:16:42 |unlink|quotecs
+16:16:42 |N|!QuoteCS|quotecs
+16:16:43 |c|%Nodly|unmute quotecs
+16:16:53 QuoteCS was unmuted by Nodly.
+16:16:53 |N|+QuoteCS|quotecs
+16:16:56 |c|%Nodly|Oops
+16:17:01 |c|+QuoteCS|>:[
+16:17:07 |c|~TheFenderStory|i'm into this so far
+16:17:18 |c|~TheFenderStory|so anyway
+16:17:29 |c|~TheFenderStory|aerow wants to attract a uu crowd here
+16:17:33 |c|~TheFenderStory|which i'm cool with
+16:17:49 |c|~TheFenderStory|so expect that to be happening at some point
+16:17:57 QuoteCS was pooped on by Nodly.
+16:18:05 |c|%Nodly|They still have arrythang
+16:19:21 |j| trash
+16:19:28 |c| trash|lol
+16:19:34 trash was promoted to Voice by TheFenderStory.
+16:19:34 |N|+trash|trash
+16:19:36 |c|~TheFenderStory|see 
+16:19:41 |c|~TheFenderStory|hehehehe
+16:19:42 |c|~TheFenderStory|macle
+16:19:44 |c|@Fiend Hound|uu ?
+16:19:48 |c|~TheFenderStory|nah
+16:19:50 |c|@Fiend Hound|lc uu or uu
+16:19:54 |c|~TheFenderStory|idk yet
+16:19:59 |c|+trash|add LC AAA
+16:19:59 |c|~TheFenderStory|aerow was kinda unclear
+16:19:59 |c|+trash|imo
+16:20:08 |c|@Fiend Hound|if uu I'd be interested 
+16:20:13 |c|~TheFenderStory|i think
+16:20:13 |c|@Fiend Hound|lc uu is whatever 
+16:20:15 |c|~TheFenderStory|he ment UU
+16:20:17 |c|~TheFenderStory|like actually uu
+16:20:26 |c|~TheFenderStory|he never said LC uu specificaly
+16:20:34 |c|~TheFenderStory|and mentioned some people i had never heard of
+16:20:53 |l|%Nodly
+16:21:06 |l|~TheFenderStory
+16:21:09 |j|~TheFenderStory
+16:21:31 |c|@Fiend Hound|any names?
+16:21:42 |c|@Fiend Hound|I sorta know the UU room scene 
+16:21:59 |c|~TheFenderStory|i can't remember exactly
+16:22:07 |c|~TheFenderStory|but we aren't ready to start that quite yet
+16:22:13 |c|~TheFenderStory|i have to update the UU banlist
+16:22:18 |c|~TheFenderStory|and change some of the rooms and stuff
+16:22:38 |userstats|total:4|guests:0| :0|+:2|%:0|@:1|★:0|#:0|&:0|~:1
+16:23:01 |c|@Fiend Hound|okay
+16:23:59 |c|@Fiend Hound|I'll ask him about it when I'm unable to sleep 
+16:26:47 |c|~TheFenderStory|well for now
+16:26:56 |c|~TheFenderStory|at least we have a mostly working server
+16:27:37 |c|@Fiend Hound|good
+16:27:54 |j|+vicious spell
+16:32:38 |userstats|total:5|guests:0| :0|+:3|%:0|@:1|★:0|#:0|&:0|~:1
+16:33:42 |c|@Fiend Hound|hey vicious
+16:34:59 |c|+vicious spell|hey Feind
+16:38:00 |c|@Fiend Hound|is /away down
+16:38:36 |c|@Fiend Hound|nvm, it is 
+16:38:39 |l|@Fiend Hound
+16:42:38 |userstats|total:4|guests:0| :0|+:3|%:0|@:0|★:0|#:0|&:0|~:1
+16:43:27 |j| PokeMontreal
+16:43:30 |c| PokeMontreal|YO
+16:44:38 |c| PokeMontreal|i'll come back in some second or mins
+16:44:44 |c| PokeMontreal|and dont promote me
+16:46:40 |c|+QuoteCS|PokeMontreal?
+16:46:58 |c|+QuoteCS|Interesting alt choice
+16:47:10 |c| PokeMontreal|yo
+16:47:21 |c| PokeMontreal|it not a alt
+16:47:27 |c| PokeMontreal|it my first name
+16:47:37 |c|+QuoteCS|oh
+16:47:38 |c|+QuoteCS|lol
+16:47:39 |c| PokeMontreal|my other names are alts
+16:47:50 |c| PokeMontreal|lol
+16:48:06 |c| PokeMontreal|get a permaban on gold.psim.us only because i asked for voice
+16:48:38 |c| PokeMontreal|i wonder is someone else can get so easily a ban
+16:50:57 |c| PokeMontreal|hmmm...
+16:51:15 |c| PokeMontreal|i'll try my chance of get (censured)
+16:51:53 |l| PokeMontreal
+16:52:38 |userstats|total:4|guests:0| :0|+:3|%:0|@:0|★:0|#:0|&:0|~:1
+16:55:42 |j| PokeMontreal
+16:55:47 |c| PokeMontreal|k
+16:55:57 |c| PokeMontreal|seem i'll don't get banned
+16:56:32 |c| PokeMontreal|/me kicked the trash on
+17:00:33 |j| HollowRidley
+17:00:45 |l| HollowRidley
+17:00:48 |l|+trash
+17:02:18 PokeMontreal was promoted to Voice by TheFenderStory.
+17:02:18 |N|+PokeMontreal|pokemontreal
+17:02:37 |userstats|total:5|guests:1| :1|+:3|%:0|@:0|★:0|#:0|&:0|~:1
+17:03:04 |c|~TheFenderStory|slowly going to breath life back into this place
+17:04:26 |j| salty fucking nerd
+17:04:37 |c|+vicious spell|slowly but surely
+17:04:43 |c| salty fucking nerd|fender
+17:04:46 |c| salty fucking nerd|u did it mah boi
+17:04:59 |c|+PokeMontreal|l
+17:05:01 |c|~TheFenderStory|i am so smart 
+17:05:03 |c|+PokeMontreal|??????????????????????????????????????????????????????
+17:05:14 |c|+PokeMontreal|youi free voice or what?
+17:05:14 |c|~TheFenderStory|like
+17:05:16 |c|~TheFenderStory|idk how i did it
+17:05:17 |c|~TheFenderStory|but i did it
+17:05:22 |c| salty fucking nerd|/me claps
+17:05:27 |c| salty fucking nerd|/me faps
+17:05:34 |l| salty fucking nerd
+17:05:41 |c|~TheFenderStory|that being said
+17:05:51 |c|~TheFenderStory|oh he's gone
+17:05:54 |c|~TheFenderStory|awkward
+17:06:34 |c|~TheFenderStory|pokemontreal
+17:06:43 |c|~TheFenderStory|i gave you voice cuz i feel generous
+17:06:46 |c|~TheFenderStory|since the server is back uo
+17:06:48 |c|~TheFenderStory|lucky you
+17:07:58 |c|+PokeMontreal|~TheFenderStory: i gave you voice cuz i feel generous
+17:08:02 |c|+PokeMontreal|you should not
+17:08:06 |c|+PokeMontreal|i'm a troll
+17:08:28 |c|+PokeMontreal| /demote PokeMontreal
+17:12:37 |userstats|total:4|guests:0| :0|+:3|%:0|@:0|★:0|#:0|&:0|~:1
+17:13:37 |j|@Fiend Hound
+17:15:35 |l|+PokeMontreal
+17:17:16 |j|&zeriloa
+17:17:20 |j|@WaterlessMelon
+17:17:28 |c|@WaterlessMelon|Boom
+17:18:55 |c|@Fiend Hound|zeril is afk I guess
+17:19:09 |c|&zeriloa|wut
+17:19:20 |c|@Fiend Hound|oh he's here now
+17:20:03 |c|&zeriloa|i'm p angry bc shit keeps happening to me that keeps me from playing lc open matches
+17:20:09 |c|&zeriloa|comp breaks, school internet fucking up
+17:20:36 |c|@Fiend Hound|are you still in open
+17:20:42 |c|@Fiend Hound|or did you lose via activity 
+17:20:45 |c|&zeriloa|i will
+17:20:53 |c|&zeriloa|i got an extensiona nd then my laptop broke
+17:21:05 |c|@WaterlessMelon|If you lose to activity, that's bullshit
+17:21:06 |c|@Fiend Hound|Just ask macle and explain it 
+17:21:07 |c|&zeriloa|and the school internet doesn't work in my dorm anymore
+17:21:20 |c|@Fiend Hound|and that's gay af 
+17:21:43 |c|&zeriloa|so unless i can somehow get on ps in the library during school
+17:21:45 |c|&zeriloa|i lose
+17:22:00 |c|&zeriloa|+ look like a huge john 
+17:22:25 |c|@Fiend Hound|how are you on ps now?
+17:22:37 |userstats|total:6|guests:0| :0|+:2|%:0|@:2|★:0|#:0|&:1|~:1
+17:22:57 |c|&zeriloa|i'm in the cafeteria lol
+17:23:39 |c|@Fiend Hound|so the wifi works every where but your room?
+17:23:46 |c|&zeriloa|pretty much
+17:23:54 |c|@Fiend Hound|wow
+17:23:56 |c|&zeriloa|well my entire dorm
+17:24:17 |c|@WaterlessMelon|Are they fixing it, or are they just gona leave it
+17:24:40 |c|&zeriloa|idk
+17:25:13 (PokeMontreal was demoted to regular user by TheFenderStory.)
+17:25:18 |c|~TheFenderStory|yeah look
+17:25:20 |c|~TheFenderStory|friends
+17:25:28 |c|~TheFenderStory|aren't we glad i fixed it
+17:25:49 |c|@WaterlessMelon|TCR is a fgt
+17:26:01 |c|@Fiend Hound|quick I need a name for my manual sand team 
+17:26:05 |c|@WaterlessMelon|Din't put my set in for VotW
+17:26:11 |c|@WaterlessMelon|Fuck you imo
+17:26:19 |c|@WaterlessMelon|MANual Sand imo
+17:26:41 |c|@WaterlessMelon|^
+17:28:12 |c|@Fiend Hound|.
+17:28:41 |c|@Fiend Hound|I was hoping for a better pun 
+17:28:55 |c|@Fiend Hound|I'll check the amp archives 
+17:29:29 |c|@Fiend Hound|No sand puns 
+17:30:30 |c|~TheFenderStory|too bad
+17:31:28 |c|@Fiend Hound|Darude - Sandstorm 
+17:31:46 |c|@WaterlessMelon|^^^
+17:32:01 |c|@WaterlessMelon|Shit, dats good
+17:32:07 |c|@WaterlessMelon|You win
+17:32:22 |c|@Fiend Hound|Could I do anything else with it?
+17:32:26 |c|@WaterlessMelon|Nah
+17:32:29 |c|@WaterlessMelon|Nothing as good
+17:32:37 |c|@WaterlessMelon|Link when done k bae?
+17:32:37 |userstats|total:6|guests:0| :0|+:2|%:0|@:2|★:0|#:0|&:1|~:1
+17:33:00 |c|@Fiend Hound|Will you be on at like 3 am GMT -7?
+17:34:25 |c|~TheFenderStory|thats freaking late
+17:34:34 |c|@Fiend Hound|I don't sleep well 
+17:35:09 |c|@Fiend Hound|like if I go to sleep at say 9:30 I wake up then 
+17:35:17 |tournament|create|challengecup1vs1|Round Robin
+17:35:17 (TheFenderStory created a tournament in challengecup1vs1 format.)
+17:35:20 |c|~TheFenderStory|cool
+17:35:22 |c|~TheFenderStory|those work 
+17:35:23 |c|@Fiend Hound|or if I stay up until 12 I sleep for 10 hours
+17:35:25 |tournament|join|TheFenderStory
+17:35:48 |tournament|leave|TheFenderStory
+17:35:51 |tournament|forceend
+17:35:51 (TheFenderStory forcibly ended a tournament.)
+17:37:02 |c|~TheFenderStory|so
+17:37:07 |c|~TheFenderStory|what are we gonna do about ant?
+17:37:10 |c|~TheFenderStory|hehehehe
+17:37:27 |c|@Fiend Hound|what do you mean?
+17:37:47 |c|~TheFenderStory|i mean
+17:37:54 |c|~TheFenderStory|he probably doesn't know we are back
+17:38:04 |c|@Fiend Hound|he doesn't
+17:38:19 |c|@WaterlessMelon|And?
+17:38:24 |c|@Fiend Hound|He's not even on 
+17:38:29 |c|@WaterlessMelon|Can we not just tell him when he gets on
+17:38:32 |c|@Fiend Hound|I think 
+17:38:38 |c|~TheFenderStory|does he get on anymore?
+17:38:50 |c|@Fiend Hound|I saw him on last saturday 
+17:39:02 |c|~TheFenderStory|well okay
+17:39:02 |c|@Fiend Hound|I think it was saturday 
+17:39:07 |c|~TheFenderStory|if anyone see's him
+17:39:10 |c|~TheFenderStory|invite him back
+17:40:50 |c|@Fiend Hound|k
+17:41:10 |c|&zeriloa|ant pms me when he's on
+17:42:23 |j| sparkychild
+17:42:32 |c| sparkychild|its up again!!!!!!!!
+17:42:37 |userstats|total:7|guests:0| :1|+:2|%:0|@:2|★:0|#:0|&:1|~:1
+17:42:38 |c|~TheFenderStory|look who i found
+17:42:47 |c|@Fiend Hound|I noticed she was around
+17:42:48 |c| sparkychild|i never knew it was back
+17:42:55 |c|+vicious spell|hey sparky!
+17:42:57 |c|@Fiend Hound|but I didn't know to tell her 
+17:43:06 |c| sparkychild|hey vicious spell :D
+17:43:11 sparkychild was promoted to Moderator by TheFenderStory.
+17:43:11 |N|@sparkychild|sparkychild
+17:43:21 |c|@sparkychild|thanks ^_^
+17:43:26 |c|~TheFenderStory|but ofc
+17:44:00 |c|@sparkychild|that room intro is wow
+17:44:06 |c|~TheFenderStory|isn't it
+17:44:08 |c|@sparkychild|>just hang out and trash zeriloa
+17:44:29 |c|~TheFenderStory|okay server announcement time
+17:45:17 |c|@sparkychild|/announce what is it?
+17:45:38 |l|~TheFenderStory
+17:45:41 |j|~TheFenderStory
+17:45:46 |c|+QuoteCS|...
+17:46:23 |l|~TheFenderStory
+17:46:25 |j|~TheFenderStory
+17:46:37 |l|~TheFenderStory
+17:46:58 |j|~TheFenderStory
+17:47:54 |c|@sparkychild|/announce do to technical difficulties, the public announcement delivered by the great rapper, TheFenderStory, will be delayed
+17:48:06 |c|@Fiend Hound|10/10
+17:50:11 |j| Fender has Issues
+17:50:28 |c| Fender has Issues|test
+17:50:34 |c| Fender has Issues|interesting
+17:50:47 |l|~TheFenderStory
+17:51:05 |c| Fender has Issues|so
+17:51:10 |c| Fender has Issues|about that announcment 
+17:51:19 |c|@Fiend Hound|ya?
+17:51:48 |c|@Fiend Hound|okay melon
+17:51:50 |c| Fender has Issues|i was gonna say to celebrate the rebirth of sparkserver by inviting all your amigos, FIESTA!!!
+17:51:58 |c|@Fiend Hound|3d sprites or bw sprites
+17:52:11 |c|@sparkychild|Fender has Issues so invite everybody?
+17:52:16 |c| Fender has Issues|yeah
+17:52:19 |c| Fender has Issues|all your amigos
+17:52:25 |c| Fender has Issues|lets livin this place back up
+17:52:37 |c|@sparkychild|i wonder what saying that in the lobby will do....
+17:52:37 |userstats|total:7|guests:0| :1|+:2|%:0|@:3|★:0|#:0|&:1|~:0
+17:52:45 |c| Fender has Issues|cause your death
+17:52:50 |c|@sparkychild|yeah
+17:52:51 |c| Fender has Issues|at the hands of global auth
+17:52:57 |c| Fender has Issues|i mean just cool people ofc
+17:53:03 |c|@WaterlessMelon|Yawna
+17:53:20 |c|@sparkychild|ok...time to invite some cool global auth
+17:53:23 |c|@WaterlessMelon|Should I do my HW Now, later, or never
+17:53:24 |c|@Fiend Hound|3d sprites or bw sprites?
+17:53:30 |c| Fender has Issues|hmm
+17:53:31 |c|@sparkychild|never
+17:53:31 |c| Fender has Issues|idk
+17:53:31 |c|@Fiend Hound|**never**
+17:53:35 |c|@sparkychild|^
+17:53:47 |c|+vicious spell|never
+17:53:49 |c|@WaterlessMelon|Doing it later then, thx guise
+17:53:56 |c| Fender has Issues|nah we just need to bring back the swaggy type of folks
+17:54:03 |c|@WaterlessMelon|<
+17:54:08 |c|@Fiend Hound|for my rmt
+17:54:10 |c|@Fiend Hound|3d sprites or bw sprites?
+17:54:21 |c|@Fiend Hound|I need to know
+17:55:11 |c|@sparkychild|bw sprites
+17:55:15 |j| Trickster
+17:55:16 |c|@sparkychild|3d sprites look hideous
+17:55:18 |c|@sparkychild|no offense
+17:55:22 |c|+QuoteCS|Also
+17:55:23 |c|@sparkychild|trickster <3
+17:55:24 |c|@Fiend Hound|k
+17:55:28 |c| Trickster|hi sparky
+17:55:32 |c|+QuoteCS|Can I not get banned again please?
+17:55:33 |c|@WaterlessMelon|Hiya Trickster
+17:55:45 |c|@Fiend Hound|I'm p sure it's chrom who bans you 
+17:55:45 |c|+QuoteCS|Someone on here kept banning me and it was dumb
+17:55:47 |c|@sparkychild|QuoteCS ill try to protect you if i can
+17:55:54 |c| Fender has Issues|you'll be safe quote
+17:55:57 |c| Fender has Issues|hehehe
+17:56:05 |c| Trickster|**ban** quotecs
+17:56:10 |c|+QuoteCS|Chrom keeps banning me, and stoner kept muting me
+17:56:16 |c|+QuoteCS|tbf
+17:56:17 |c| Fender has Issues|they dont even know
+17:56:20 |c|+QuoteCS|stoner is a butthurt moron
+17:56:20 |c| Fender has Issues|this server is up
+17:56:26 |c|@Fiend Hound| /lock QuoteCS
+17:56:41 |c|@Fiend Hound|I haven't seen stoner since it went down 
+17:56:41 |c|+QuoteCS|lol
+17:56:46 |c|+QuoteCS|good
+17:56:48 |c|+QuoteCS|Fuck that kid
+17:56:56 |c|@Fiend Hound|he's an adult 
+17:56:58 |c| Fender has Issues|he's like
+17:57:00 |c| Fender has Issues|25
+17:57:01 |c| Fender has Issues|at least
+17:57:07 |c|@Fiend Hound|like 26 iirc
+17:57:14 |c|+QuoteCS|Still acts like a kid
+17:57:23 |c| Fender has Issues|could someone
+17:57:27 |c| Fender has Issues|tell levi to get his but on here
+17:57:29 |c|@Fiend Hound|he's funny at times
+17:57:29 |c|&zeriloa|hes 22
+17:57:40 |c|@Fiend Hound|oh, 22 
+17:57:55 |c|@sparkychild|sure ill tell levi
+17:58:02 |c|@Fiend Hound|I just did sparkychild
+17:58:12 |j|@Corporal Levi
+17:58:13 |c|@sparkychild|oh lol
+17:58:17 |c|@sparkychild|we pm spammed him then
+17:58:29 |c|@Corporal Levi|thanks
+17:58:35 |c|@Corporal Levi|for the pm spam
+17:58:36 |c| Fender has Issues|i have to say
+17:58:47 |c| Fender has Issues|this is the chillest collection of folks we have had on SS since back in the day
+17:59:15 |c|@Fiend Hound|Were you even on original ss 
+17:59:20 |c| Fender has Issues|yeah
+17:59:21 |c| Fender has Issues|i was there
+17:59:26 |c| Fender has Issues|sparky was there
+17:59:26 |c|@sparkychild|fender was there
+17:59:30 |c| Fender has Issues|zeril was there
+17:59:32 |c|@Fiend Hound|I guess I just always missed you
+17:59:37 |c|&zeriloa|i miss those times
+17:59:37 |c|@WaterlessMelon|Stoner > Quote imo
+17:59:39 |c|@Fiend Hound| /wasn't on
+17:59:45 |c| Fender has Issues|sparky and I ran the LC ubers room
+17:59:48 |c| Fender has Issues|back in the day
+18:00:18 |c|@WaterlessMelon|Some of the best days
+18:00:26 |c|@WaterlessMelon|Were back ni the days of rap battles
+18:00:33 |c| Fender has Issues|those can come back
+18:00:34 |c|@sparkychild|Fender has Issues i remember that
+18:00:39 |c|@Fiend Hound|antgeezy was last seen 19 hours, 26 minutes, 33 seconds ago.
+18:00:39 |c|&zeriloa|heh yeah
+18:00:39 |c|@WaterlessMelon|Nah
+18:00:41 |c|@sparkychild|sneasel was so op
+18:00:42 |c|&zeriloa|the rap battles
+18:00:52 |c|@WaterlessMelon|Fuck, those were good times
+18:00:53 |c|@sparkychild|Fender has Issues we need an unzipping room
+18:00:59 |c| Fender has Issues|somone
+18:00:59 |c|@Fiend Hound|we have one 
+18:01:00 |c|@sparkychild|its not spark server without that
+18:01:02 |c| Fender has Issues|redirect her
+18:01:15 |c|@sparkychild|whoops i didn't see that
+18:01:18 |c| Fender has Issues|lol
+18:01:20 |c|&zeriloa|its not sparkserver
+18:01:24 |c|&zeriloa|without spark
+18:01:25 |c|&zeriloa|:/
+18:01:27 |c|@WaterlessMelon|:/
+18:01:30 |c|@sparkychild|true...
+18:01:30 |c|@WaterlessMelon|RIP
+18:01:30 |c| Fender has Issues|he still exists
+18:01:32 |c|@Fiend Hound|it's fenderserver at this point 
+18:01:33 |c| Fender has Issues|he was on earlier
+18:01:39 |c|&zeriloa|he's not the same
+18:01:44 |c|@WaterlessMelon|^
+18:01:46 |c|&zeriloa|neither am i honestly
+18:01:47 |c|@Fiend Hound|he tagged me in the sand in lc thread
+18:01:55 |c| Fender has Issues|no one is exactly the same
+18:01:57 |c| Fender has Issues|but its all cool
+18:02:07 |c|@Fiend Hound|at least you aren't as salty as you were when you originally came back 
+18:02:37 |userstats|total:9|guests:0| :2|+:2|%:0|@:4|★:0|#:0|&:1|~:0
+18:02:43 |L| fenderhasissues
+18:02:49 |j|~TheFenderStory
+18:02:54 |c|@WaterlessMelon|The person who changed most
+18:02:56 |c|@WaterlessMelon|Was Ant
+18:03:10 |l|~TheFenderStory
+18:03:12 |c|@WaterlessMelon|I remember when he first went into the LC room
+18:03:17 |c|@Fiend Hound|I was certain you were going to say me 
+18:03:35 |j| FenderStory
+18:03:51 |c| FenderStory|so
+18:03:53 |c|@WaterlessMelon|He went from a troll, to super helpful, kind user in a few days, then after % went back to his origonal ways
+18:03:54 |c| FenderStory|the awkward thing is
+18:04:07 |c| FenderStory|my admin account is like totally jacked atm
+18:04:31 |c|@sparkychild|try resetting the server?
+18:04:34 |c| FenderStory|i will later
+18:04:40 |c| FenderStory|but everyone is having a good time atm
+18:04:49 |c|@WaterlessMelon|Totes good time'
+18:05:25 |c| FenderStory|hmmm
+18:05:28 |c|@Fiend Hound|why do you need admin rn
+18:05:32 |c| FenderStory|i dont
+18:06:03 |c| FenderStory|alright
+18:06:09 |c| FenderStory|so who else can we bring back
+18:06:16 |c|@WaterlessMelon|The only thing that could make this better
+18:06:19 |c|@Corporal Levi|LEWL NERDS
+18:06:20 |c|@Corporal Levi|COME
+18:06:24 |c|@Corporal Levi|WORSHIP FOONGUSSSSSSSSSSSSSSSSSSSSS
+18:06:24 |l|&zeriloa
+18:06:27 |c|@Fiend Hound|Splashy will be back once he finishes his hw + resets comp
+18:06:31 |c| FenderStory|yep
+18:06:31 |l|@Corporal Levi
+18:06:36 |c|@WaterlessMelon|Is Chrom joining and banning Quote
+18:06:39 |c| FenderStory|idk 
+18:06:42 |c| FenderStory|chrom might be dead
+18:06:47 |c|+QuoteCS|nooooo
+18:06:48 |c|@WaterlessMelon|D:
+18:06:49 |c|+QuoteCS|pls no
+18:06:55 |c|@Fiend Hound|chrom is around-ish
+18:07:04 QuoteCS was muted by WaterlessMelon for 7 minutes.
+18:07:04 |unlink|quotecs
+18:07:04 |N|!QuoteCS|quotecs
+18:07:06 |c|@WaterlessMelon|Shh
+18:07:09 |c| FenderStory|fizz???
+18:07:11 |c| FenderStory|lol
+18:07:25 |c|@Fiend Hound|Fizz is meh
+18:07:29 |c|@sparkychild|what about briyella?
+18:07:35 |c|@Fiend Hound|Ban her
+18:07:36 |c| FenderStory|hehehe
+18:07:38 QuoteCS was unmuted by sparkychild.
+18:07:38 |N|+QuoteCS|quotecs
+18:07:40 |c|@WaterlessMelon|Lol
+18:07:50 |c|@sparkychild|uh cmon briyellas really nice
+18:07:55 |c| FenderStory|that would be
+18:07:59 |c| FenderStory|a bad idea considering
+18:08:00 |c|@WaterlessMelon|Not exactly
+18:08:05 |c|@WaterlessMelon|SS material
+18:08:09 |c|@sparkychild|i guess
+18:08:12 |c|@WaterlessMelon|And
+18:08:16 |c|@Fiend Hound|I thought that was just an incredibly stupid joke sparky 
+18:08:17 |c| FenderStory|she hates several people on here
+18:08:18 |c|@WaterlessMelon|We talk mucho shit here
+18:08:37 |c|+QuoteCS|If Bri comes here this place is doomed
+18:08:45 |c|@WaterlessMelon|^
+18:08:53 |c|@sparkychild|QuoteCS rbi probably won't have time to come here....
+18:08:56 |c|@WaterlessMelon|She doesn't hate me, so I'm fine
+18:08:56 |c|@Fiend Hound|If bri comes here, we just react accordingly 
+18:09:13 |c|@Fiend Hound|We just be chill \
+18:09:19 |c|@WaterlessMelon|Ignore that the only reason she doesn't hate me is because she doesn't know who I am plz
+18:09:33 |c| FenderStory|/me unzips
+18:09:40 |c|@WaterlessMelon|<3
+18:09:46 |c| FenderStory|and ofc
+18:09:47 |c| FenderStory|that
+18:09:48 |c|@Fiend Hound|and hide out at the cave 
+18:09:51 |c|@sparkychild|is nodly a mod here?
+18:10:00 |c|@Fiend Hound|voice 
+18:10:04 |j|@Corporal Levi
+18:10:06 |c| FenderStory|i think he might be drive
+18:10:08 |c| FenderStory|actually
+18:10:08 |c|@sparkychild|but he muted quote...
+18:10:16 |c|@Fiend Hound|is he driver now
+18:10:26 |c|@sparkychild|hes at least %
+18:10:26 |c| FenderStory|someone demote his ass
+18:10:31 |c|@Fiend Hound|I can't
+18:10:33 |c|@sparkychild|unless this server is different
+18:10:33 |c|@Fiend Hound|no power 
+18:10:39 |c| FenderStory|shoot none of us can atm
+18:10:43 |c|@Corporal Levi|oh
+18:10:48 |c|@sparkychild|FenderStory you could change it in the github
+18:10:50 |c|@Corporal Levi|don't invite bri 
+18:10:52 |c|@Corporal Levi|ss is like
+18:10:53 |c| FenderStory|i could do that
+18:11:01 |c|@Fiend Hound|use the console 
+18:11:02 |c|@Corporal Levi|the largest stronghold of users banned from the lc room
+18:11:05 |c|@Corporal Levi|on the internet
+18:11:10 |c|@sparkychild|or make FenderStory a leader acocunt
+18:11:14 |c| FenderStory|oh i know
+18:11:15 |c|@Corporal Levi|so that might not be a good idea
+18:11:17 |c|@WaterlessMelon|Levi, thx for not saying me fren btw
+18:11:18 |c| FenderStory|someone should just ip ban me
+18:11:20 |c|@WaterlessMelon|You big bastard
+18:11:25 |c|@Fiend Hound|okay
+18:11:25 |c| FenderStory|and then unban me
+18:11:28 |c|@Corporal Levi|who are you
+18:11:31 FenderStory was banned by Fiend Hound.
+18:11:31 |unlink|fenderstory
+18:11:31 |l| FenderStory
+18:11:38 |c|@WaterlessMelon|I'm AbsDaddy
+18:11:41 FenderStory was unbanned by Fiend Hound.
+18:11:52 |c|@Fiend Hound|I don't think that was an IP ban
+18:11:53 |j|‽TheFenderStory
+18:11:59 |c|@sparkychild|Fiend Hound all bans are ip
+18:12:01 |c|@Corporal Levi|prove it 
+18:12:01 |N|~TheFenderStory|thefenderstory
+18:12:01 TheFenderStory was unlocked by Fiend Hound.
+18:12:04 |c|@Fiend Hound|okay 
+18:12:04 |c|~TheFenderStory|hey hey
+18:12:06 |c|@Corporal Levi|describe the state of your lungs
+18:12:07 |c|@WaterlessMelon|Okay
+18:12:08 |c|~TheFenderStory|problem solved
+18:12:18 |c|@Fiend Hound|idf any commands 
+18:12:24 |c|~TheFenderStory|/me unzips
+18:12:26 |c|~TheFenderStory|that one works
+18:12:32 |c|@sparkychild|lol levi i thought that you wanted me to prove that bans are ip lol
+18:12:36 |c|~TheFenderStory|hide and away and fapping are done atm
+18:12:37 |userstats|total:8|guests:0| :1|+:2|%:0|@:4|★:0|#:0|&:0|~:1
+18:12:39 |c|@WaterlessMelon|absdaddy: im watermelon guy absdaddy: also im fgt
+18:12:53 |c|@Corporal Levi|@Corporal Levi: describe the state of your lungs
+18:13:18 |c|@Corporal Levi|also that log is fake 
+18:13:23 |c|@Corporal Levi|it doesn't have # in front of it
+18:13:30 |c|@sparkychild|which log?
+18:13:37 |c|@sparkychild|#fakelogs imo
+18:13:38 |c|@Fiend Hound|levi what is good on stall and checks pawn + scraggy 
+18:13:38 |c|@Corporal Levi|@WaterlessMelon: absdaddy: im watermelon guy absdaddy: also im fgt
+18:13:50 |c|@Corporal Levi|fiend 
+18:13:56 |c|@Corporal Levi|mienfoo
+18:13:57 |c|@Corporal Levi|timburr
+18:13:58 |c|@Corporal Levi|croagunk
+18:14:01 |c|~TheFenderStory|okay
+18:14:02 |c|~TheFenderStory|now then
+18:14:06 |c|~TheFenderStory|in honor of sparktrain
+18:14:09 |c|@Corporal Levi|hp fighting vullaby
+18:14:10 |raw|<div class="broadcast-blue"><b>The Pokemon of the Day is now seel!</b><br />This Pokemon will be guaranteed to show up in random battles.</div>
+18:14:12 |c|@Corporal Levi|ponyta
+18:14:20 |c|@Fiend Hound|uh vullaby it is
+18:14:29 |c|@Corporal Levi|of course
+18:14:41 |tournament|create|randombattle|Single Elimination
+18:14:41 (TheFenderStory created a tournament in randombattle format.)
+18:14:41 |c|@Fiend Hound|tho that doesn't fix the ice weakness 
+18:14:44 |tournament|join|Fiend Hound
+18:14:46 |tournament|join|TheFenderStory
+18:14:54 |c|@Corporal Levi|then run
+18:14:55 |c|@Corporal Levi|mienfoo
+18:14:56 |c|@Corporal Levi|or timburr
+18:14:56 |tournament|join|vicious spell
+18:15:01 |c|@Corporal Levi|mienfoo if you have ferro
+18:15:01 |tournament|join|WaterlessMelon
+18:15:04 |c|@Corporal Levi|well
+18:15:06 |c|@Corporal Levi|ferrospritz
+18:15:11 |c|@Corporal Levi|otherwise it's a toss-up
+18:15:14 |c|@Fiend Hound|EVs: 116 HP / 44 Atk / 236 Def+ / 76 SpD / 36 Spe
+18:15:19 |c|~TheFenderStory|sparkychild, corporal levi, quotecs, vicious spell
+18:15:19 |c|@Fiend Hound|that is the vullaby spread?
+18:15:22 |c|~TheFenderStory|join
+18:15:29 |tournament|join|sparkychild
+18:15:32 |c|@sparkychild|fine
+18:15:38 |c|@sparkychild|i don't know if i have enough time
+18:15:50 |c|~TheFenderStory|./tour leave
+18:15:56 |c|~TheFenderStory|anyone else
+18:15:57 |c|~TheFenderStory|no?
+18:15:59 |c|@Corporal Levi|why the atk EVs
+18:16:02 |c|@Corporal Levi|they don't do anything
+18:16:03 |l|~TheFenderStory
+18:16:09 |c|@Corporal Levi|also is that compatible with the IVs
+18:16:10 |j|~TheFenderStory
+18:16:10 |c|@sparkychild|i think we can start
+18:16:12 |c|~TheFenderStory|oops
+18:16:14 |tournament|start
+18:16:17 |l|~TheFenderStory
+18:16:23 |j|~TheFenderStory
+18:16:32 |c|@sparkychild|Fiend Hound challenge me
+18:16:58 |c|~TheFenderStory|melon
+18:17:29 |b|battle-randombattle-2|~TheFenderStory|@WaterlessMelon
+18:17:29 |tournament|battlestart|TheFenderStory|WaterlessMelon|battle-randombattle-2
+18:17:40 |c|@Corporal Levi|BEEP BEEP BOOP BOP
+18:17:54 |c|@sparkychild|Fiend Hound!!!
+18:18:22 |c|+QuoteCS|Oh, I was hl'd
+18:18:26 |c|+QuoteCS|whoops
+18:18:31 |c|~TheFenderStory|a little late quote
+18:18:40 |c|@Fiend Hound|I sorta made it mixed on accident 
+18:18:42 |N|@sparkychild|sparkychild
+18:18:47 |b|battle-randombattle-3|@Fiend Hound|@sparkychild
+18:18:47 |tournament|battlestart|Fiend Hound|sparkychild|battle-randombattle-3
+18:19:15 |c|@Corporal Levi|BEARS
+18:19:23 |c|@sparkychild|who the f is warn spamming me
+18:19:28 |c|@Corporal Levi|BEARS BEARS BEARS
+18:19:38 |c|@Corporal Levi|LOOK OUT BEARS BEARS BEARS BEARS BEARS
+18:19:39 sparkychild was pooped on by TheFenderStory.
+18:19:47 Corporal Levi was poopmuted by TheFenderStory for 7 minutes.
+18:19:47 |unlink|corporallevi
+18:19:47 |N|!Corporal Levi|corporallevi
+18:19:57 |N|!UNMUTE ME NERD|corporallevi
+18:19:59 |c|~TheFenderStory|sorry
+18:20:03 |c|~TheFenderStory|my poop key slipped
+18:20:10 |N|!cORPORALLEVi|unmutemenerd
+18:20:19 |c| Trickster|bears
+18:20:20 |j|&zeriloa
+18:20:27 |N|!UNMUTE ME NERD|corporallevi
+18:20:28 UNMUTE ME NERD was unmuted by TheFenderStory.
+18:20:28 |N| UNMUTE ME NERD|unmutemenerd
+18:20:33 |c|~TheFenderStory|hmm
+18:20:35 |N|@cORPORALLEVi|unmutemenerd
+18:20:36 |c|~TheFenderStory|interesting
+18:21:37 |c|@cORPORALLEVi|sparkychild more like sparkynerd
+18:21:45 |c|@cORPORALLEVi|waterlessmelon more like watnerdmelon
+18:21:48 |c|@sparkychild|why all this hate?
+18:21:50 |c| Trickster|>pooped on
+18:21:57 |c|@cORPORALLEVi|zeriloa more like nerdiloa
+18:21:57 |c| Trickster|is that a new command or is that /a
+18:22:04 |c|~TheFenderStory|its a command 
+18:22:04 |c|@sparkychild|new command for this server
+18:22:05 |c|@cORPORALLEVi|thefenderstory more like thefendnerdstory 
+18:22:09 cORPORALLEVi was pooped on by TheFenderStory.
+18:22:11 |c|~TheFenderStory|i wonder
+18:22:13 |c|@cORPORALLEVi|fiend hound more like fiend nerd
+18:22:14 |c|~TheFenderStory|if this command is working
+18:22:15 |c|@cORPORALLEVi|excuse me
+18:22:18 |l|+vicious spell
+18:22:23 cORPORALLEVi was sharted on by TheFenderStory.
+18:22:23 |unlink|corporallevi
+18:22:23 |l|‽cORPORALLEVi
+18:22:30 |c|~TheFenderStory|oh it works
+18:22:34 |c|@WaterlessMelon|lol
+18:22:34 corporal levi was unbanned by TheFenderStory.
+18:22:37 |userstats|total:8|guests:1| :2|+:1|%:0|@:3|★:0|#:0|&:1|~:1
+18:22:37 |j|‽cORPORALLEVi
+18:22:40 |N|@cORPORALLEVi|corporallevi
+18:22:40 cORPORALLEVi was unlocked by TheFenderStory.
+18:22:55 |c| Trickster|why do you have such bizarre punishment commands lol
+18:22:58 |c|@cORPORALLEVi|because
+18:22:59 |c|@cORPORALLEVi|BEARS
+18:23:01 |c|~TheFenderStory|sparktrain was a weird dude
+18:23:12 |c|~TheFenderStory|a salty nerd 
+18:23:14 |c|~TheFenderStory|actualy
+18:25:50 |c|~TheFenderStory|bears?
+18:26:07 |c|@cORPORALLEVi|BEARS BEARS BEARS
+18:26:24 |c|~TheFenderStory|!data cubchoo
+18:26:24 |c|~|/data-pokemon Cubchoo
+
+18:26:36 |c|@sparkychild|!dt bears
+18:26:36 No Pokemon, item, move, ability or nature named 'bears' was found. (Check your spelling?)
+18:26:45 |j| Cheek Pouch
+18:26:48 |tournament|battleend|Fiend Hound|sparkychild|win|3,0
+18:26:50 |c| Cheek Pouch|/me arrives
+18:26:56 |c| Cheek Pouch|Yoooo
+18:26:56 |c|~TheFenderStory|hey hey
+18:26:57 |c| Cheek Pouch|TFS
+18:27:02 |c| Cheek Pouch|having seen you in forever
+18:27:07 |c|~TheFenderStory|who are you again>
+18:27:10 |c| Cheek Pouch|this is Kiba Roserade
+18:27:15 |c|~TheFenderStory|ooooooh shit
+18:27:16 |c| Cheek Pouch|Or Nicholas Wolfwood
+18:27:17 |c|~TheFenderStory|my nigga
+18:27:19 |c| Cheek Pouch|etc etc
+18:27:24 |c| Cheek Pouch|yeahhh nigga whats good
+18:27:33 |c|~TheFenderStory|scrub team captain right here
+18:27:40 |c|~TheFenderStory|the man the myth the legend
+18:27:52 Cheek Pouch was promoted to Voice by TheFenderStory.
+18:27:52 |N|+Cheek Pouch|cheekpouch
+18:27:53 |c|+Cheek Pouch|That would be me
+18:27:57 |c|+Cheek Pouch|where's my mod
+18:27:58 |c|+Cheek Pouch|tf
+18:28:03 |tournament|battleend|TheFenderStory|WaterlessMelon|loss|4,5
+18:28:06 |c|~TheFenderStory|okay
+18:28:08 |c|@sparkychild|congrats on voice Cheek Pouch
+18:28:12 |c|~TheFenderStory|i am gonna go get some dinner
+18:28:16 |c|~TheFenderStory|oh and kiba
+18:28:17 |c|+Cheek Pouch|no wait TFS
+18:28:20 |c|+Cheek Pouch|you forgot something
+18:28:23 |c|~TheFenderStory|i'll driver you fo shiz
+18:28:24 |c|@Fiend Hound|it's the same policy as macle's
+18:28:30 |c|+Cheek Pouch|what is, Fiend Hound
+18:28:33 |c|~TheFenderStory|yeah queen lucy pics
+18:28:36 |c|@Fiend Hound|nudes for mod
+18:28:40 |c|+Cheek Pouch|oh
+18:28:41 |c|+Cheek Pouch|okay
+18:28:44 |c|@WaterlessMelon|Isn't that how
+18:28:46 |c|+Cheek Pouch|I can get those p easy tbh
+18:28:49 |c|@WaterlessMelon|abs got anything ever
+18:28:50 |c|+Cheek Pouch|since we had a thing
+18:28:56 |c|@WaterlessMelon|Giving macle nudes
+18:29:00 |c|+Cheek Pouch|WaterlessMelon, of who?
+18:29:03 |c|@Fiend Hound|no 
+18:29:04 Cheek Pouch was promoted to Driver by TheFenderStory.
+18:29:04 |N|%Cheek Pouch|cheekpouch
+18:29:06 |c|~TheFenderStory|okay
+18:29:10 |c|%Cheek Pouch|niiiice
+18:29:10 |c|@Fiend Hound|it was just a normal pic of qu
+18:29:12 |c|~TheFenderStory|i'm gonna do a mod clean out
+18:29:15 |c|~TheFenderStory|i mean
+18:29:15 |c|@WaterlessMelon|I know
+18:29:17 |c|~TheFenderStory|auth clean out
+18:29:20 |c|@WaterlessMelon|Wait
+18:29:23 |c|@WaterlessMelon|The fuck
+18:29:24 |c|@Fiend Hound|that's why he only got driver 
+18:29:25 |c|~TheFenderStory|not you
+18:29:27 |c|@WaterlessMelon|How'd he get a pic
+18:29:29 |c|~TheFenderStory|melon
+18:29:31 |c|%Cheek Pouch|/announce BOOTY
+18:29:34 |c|%Cheek Pouch|sorry
+18:29:38 |c|@WaterlessMelon|Lel
+18:29:39 |c|~TheFenderStory|once i get back
+18:29:41 |c|~TheFenderStory|bye for now
+18:29:41 |c|@Fiend Hound|qu gave it to him
+18:29:44 |l|~TheFenderStory
+18:29:47 |c|@sparkychild|//k Cheek Pouch, caps
+18:29:51 |c|@Fiend Hound|and now she's dead
+18:29:53 |c|@WaterlessMelon|Huh
+18:29:55 |c|%Cheek Pouch|sparky
+18:30:01 |c|%Cheek Pouch|I don't even play LC
+18:30:03 |c|%Cheek Pouch|I suck at it
+18:30:19 |c|@Fiend Hound|lc is easy 
+18:30:25 |c|%Cheek Pouch|Fiend Hound ik
+18:30:30 |c|%Cheek Pouch|I was in fact
+18:30:31 |c|@Fiend Hound|if you suck on the ladder then go help you 
+18:30:33 |c|@sparkychild|someone should give Cheek Pouch mods or owners in rp
+18:30:35 |c|&zeriloa|who tf
+18:30:36 |c|&zeriloa|is cheek pouch
+18:30:40 |c|%Cheek Pouch|zeriloa
+18:30:46 |c|%Cheek Pouch|you remember Kiba Roserade
+18:30:48 |c|%Cheek Pouch|Darmanican't
+18:30:51 |c|%Cheek Pouch|Nicholas Wolfwood
+18:30:54 |c|%Cheek Pouch|That's me
+18:31:14 |c|@Fiend Hound|oh wolfwood 
+18:31:21 |c|@sparkychild|i just call him nicky :D
+18:31:33 |c|%Cheek Pouch|You actually call me Senpai
+18:31:34 |c|%Cheek Pouch|iirc
+18:31:46 |c|&zeriloa|that guy
+18:31:46 |c|@sparkychild|``i do?``
+18:31:47 |c|&zeriloa|ya
+18:31:57 |c|%Cheek Pouch|you remember me now zeri
+18:32:14 |c|%Cheek Pouch|and our wonderful kinda friendship
+18:32:20 |c|%Cheek Pouch|tbh out of like all the cool people in LC
+18:32:28 |c|%Cheek Pouch|you were like the one I didn't talk to a lot
+18:32:37 |userstats|total:8|guests:0| :1|+:1|%:1|@:4|★:0|#:0|&:1|~:0
+18:32:57 |c|@Fiend Hound|how do i dq vicious 
+18:33:01 |c|&zeriloa|i haven't been very active in a while
+18:33:05 |c|@WaterlessMelon|Didn't talk to me ;-;
+18:33:13 |c|@WaterlessMelon|I cool rite
+18:33:13 |c|@Fiend Hound|what is the command again? 
+18:33:59 |c|%Cheek Pouch|how do you start a tour?
+18:34:22 |c|@sparkychild|well access denied
+18:34:37 |c|@sparkychild|zeriloa do /tour disqualify vicious spell
+18:34:37 |c|%Cheek Pouch|what's the command
+18:34:42 |c|@sparkychild|i asked macle hehe
+18:34:59 |c|%Cheek Pouch|I can't dq
+18:35:00 |c|%Cheek Pouch|tf
+18:35:08 |c|@WaterlessMelon|Cuz you lousy driver
+18:35:18 |c|@Fiend Hound|melon try it
+18:35:23 |c|&zeriloa|i can't even dq
+18:35:44 |c|@sparkychild|i wonder if banning him works?
+18:35:53 vicious spell was banned by sparkychild. (dq tour)
+18:35:53 |unlink|viciousspell
+18:35:59 |c|@sparkychild|does it?
+18:36:00 |c|@sparkychild|nope
+18:36:09 vicious spell was unbanned by sparkychild.
+18:36:14 vicious spell was unlocked by sparkychild.
+18:37:18 |c|@Fiend Hound|i wonder if fener broke tours
+18:37:42 |c|&zeriloa|can't end either
+18:39:18 |c|@sparkychild|ugh fender forgot to allow mods and above to change it
+18:39:33 |c|@sparkychild|who else can change the github?
+18:39:40 |c|@Fiend Hound|nine
+18:39:46 |c|@Fiend Hound|and spark 
+18:39:58 |c|@sparkychild|well nine isn't on....
+18:40:08 |c|%Cheek Pouch|let's
+18:40:09 |c|%Cheek Pouch|do this
+18:40:14 |c|%Cheek Pouch|/me twerks on sparkychild
+18:40:20 |c|@sparkychild|huh?
+18:40:36 |c|%Cheek Pouch|/me twerks on trickster
+18:40:43 |c| Trickster|plz
+18:40:44 |c|%Cheek Pouch|Oh shit
+18:40:46 |c|%Cheek Pouch|Trickster
+18:40:50 |c|%Cheek Pouch|is global mod
+18:40:56 |c| Trickster|on here i'm not
+18:41:01 |c|%Cheek Pouch|/me untwerks on trickster
+18:41:04 |c| Trickster|lol
+18:41:08 |c|@WaterlessMelon|Lol
+18:41:10 |c|%Cheek Pouch|You're important where it counts
+18:41:12 |c|@sparkychild|Cheek Pouch i actually had to google that up
+18:41:14 |c|@sparkychild|ewwwwwww
+18:41:17 |c|%Cheek Pouch|fuck that sounded gayyyyyyyyyyy
+18:41:19 |c|@WaterlessMelon|Thought he was Tricking tbh
+18:41:30 |c|@WaterlessMelon|Similar names
+18:41:38 |c|@Fiend Hound|you see 
+18:41:51 |c|@Fiend Hound|Trickster is actually a notable person on PS 
+18:42:00 |c|@sparkychild|most diligent lobby mod
+18:42:09 |c|@WaterlessMelon|None of us are
+18:42:14 |c| Trickster|i'm the best mod obv
+18:42:18 |c|@WaterlessMelon|Totes
+18:42:21 |c|@Fiend Hound|After bri 
+18:42:28 |c|@Fiend Hound|and prem
+18:42:37 |userstats|total:8|guests:0| :1|+:1|%:1|@:4|★:0|#:0|&:1|~:0
+18:42:42 |c|@WaterlessMelon|Thought prem was voice
+18:42:43 |c|@sparkychild|briyella is always on smog on forums so she isn't that active in the lobby
+18:42:43 |c|%Cheek Pouch|I mean
+18:42:45 |c|@sparkychild|prem is mod
+18:42:47 |c|@WaterlessMelon|Are is that macle
+18:42:47 |c|%Cheek Pouch|Trickster and I used to be friends
+18:42:50 |c|@sparkychild|macle is voice
+18:42:50 |c|@WaterlessMelon|Or*
+18:42:52 |c|@sparkychild|blara is voice
+18:42:53 |c|@WaterlessMelon|Ah
+18:42:54 |c|%Cheek Pouch|then I got cut off
+18:43:00 |c|%Cheek Pouch|bc not enough swag
+18:43:04 |c|@WaterlessMelon|So, prem actually matters
+18:43:07 |c| Trickster|i still don't remember you as kiba roserade Cheek Pouch ;_;
+18:43:11 |c|%Cheek Pouch|idk why
+18:43:13 |c|%Cheek Pouch|;-;
+18:43:15 |c| Trickster|we must've only talked like 1 time tbh
+18:43:18 |c|@sparkychild|Trickster he was nicholas wolfwood
+18:43:18 |c|%Cheek Pouch|Guess I was boring af
+18:43:29 |c|%Cheek Pouch|yeah
+18:43:29 |c| Trickster|i still don't know who nicholas wolfwood is though
+18:43:32 |c|%Cheek Pouch|omfg
+18:43:33 |c| Trickster|i usually have a good memory for users
+18:43:36 |c|@Fiend Hound|he's a guy
+18:43:42 |c|@sparkychild|ex trivia driver?
+18:43:42 |c|%Cheek Pouch|Guess I'm not relevant 
+18:43:43 |c|@Fiend Hound|who played LC like a scrub 
+18:43:53 |c|%Cheek Pouch|but when I 6-0 you
+18:43:53 |c|@WaterlessMelon|LC sux, bad tier, don't play
+18:43:58 |c|@WaterlessMelon|^
+18:43:59 |c|@WaterlessMelon|^^
+18:44:00 |c| Trickster|sometimes people confuse me with Tricking
+18:44:03 |c| Trickster|and ask me if i'm good at lc
+18:44:05 |c| Trickster|which i'm not
+18:44:09 |c|@sparkychild|WaterlessMelon i think dcae got demoted for saying that lol
+18:44:16 |c|@WaterlessMelon|Hahaha
+18:44:27 |c| Trickster|dcae is on the naughty list
+18:44:28 |c|@sparkychild|rip dcae hero
+18:44:30 |c|@Fiend Hound|lc is easy tho
+18:44:36 |c|@WaterlessMelon|You have close colors too Trickster
+18:44:39 |c|@Fiend Hound|what did dcea do?
+18:44:57 |c| Trickster|i'm not sure if what dcae did is a secret or not :x
+18:45:13 |c|@WaterlessMelon|dcae was like
+18:45:13 |c|%Cheek Pouch|wait didn't like macle purge the auth
+18:45:15 |c|@Fiend Hound|you tell us and we'll tell you 
+18:45:17 |c|%Cheek Pouch|from LC room
+18:45:20 |c|@WaterlessMelon|The best person
+18:45:22 |c|%Cheek Pouch|based on people who came here
+18:45:26 |c|@Fiend Hound|no
+18:45:31 |c|@WaterlessMelon|No
+18:45:33 |c|%Cheek Pouch|oh
+18:45:34 |c|%Cheek Pouch|oops
+18:45:41 |c|@sparkychild|Trickster i think it is... I've never heard anything even though i was in lobby and lc room at that time
+18:45:45 |c|@Fiend Hound|based on /unzipps 
+18:45:46 |c|@WaterlessMelon|Other wise I'd be a filthy peasent
+18:45:54 |c|@sparkychild|Cheek Pouch i think that happened
+18:45:57 |c|%Cheek Pouch|see
+18:45:59 |c|@sparkychild|so aerow didn't come on anymore
+18:46:01 |c|%Cheek Pouch|I knew I wasn't crazy
+18:46:03 |c|@sparkychild|and a few others
+18:46:07 |c|%Cheek Pouch|I'm just a little unwell
+18:46:23 |c|@Fiend Hound|No it was because of /unzipping 
+18:46:26 |c|@WaterlessMelon|Does macle even know about SS?
+18:46:29 |c|@Fiend Hound|I'm like 90% sure of that 
+18:46:30 |c|@sparkychild|yes
+18:46:32 |c|%Cheek Pouch|I he did
+18:46:34 |c|@sparkychild|i think macle is voice here
+18:46:34 |c|%Cheek Pouch|I'd fight him
+18:46:35 |c|@WaterlessMelon|blara? prem?
+18:46:38 |c|%Cheek Pouch|he's not even good at LC
+18:46:42 |c|%Cheek Pouch|I gave him the works
+18:46:45 |c|@sparkychild|bri is also voice on the old ss
+18:46:46 |c|@Fiend Hound|prem has not
+18:46:50 |c|@Fiend Hound|he wouldn't care 
+18:46:55 |c|@sparkychild|i don't think blara and prem do tho
+18:47:01 |c|@Fiend Hound|and blara on ps is rare
+18:47:14 |c|@WaterlessMelon|I think I like prem the most out of the RoomOwners
+18:47:24 |c|@WaterlessMelon|He doesn't seem like be gives any shits
+18:47:28 |c|@WaterlessMelon|About anything
+18:47:29 |l|&zeriloa
+18:47:54 |c|@Fiend Hound|as I said, prem is the best mod
+18:47:56 |c|%Cheek Pouch|hey is dual chop good on Coragunk
+18:48:00 |c|%Cheek Pouch|*Croagunk
+18:48:01 |c|@Fiend Hound|yeah man
+18:48:03 |c|@Fiend Hound|beats abra
+18:48:03 |c|%Cheek Pouch|aight
+18:48:03 |j|~TheFenderStory
+18:48:11 |c|@Fiend Hound|fender
+18:48:14 |c|~TheFenderStory|yo
+18:48:15 |c|@Fiend Hound|you fucked up tours
+18:48:21 |c|~TheFenderStory|how
+18:48:29 |c|@Fiend Hound|no dq's
+18:48:31 |c|%Cheek Pouch|imma run Dual Chop/Bounce/HP normal/Sunny Day
+18:48:33 |c|@Fiend Hound|or end tours
+18:48:33 |c|%Cheek Pouch|with Dry Skin
+18:48:41 |c|@Fiend Hound|>HP normal
+18:48:43 |tournament|disqualify|vicious spell
+18:48:43 (vicious spell was disqualified from the tournament by TheFenderStory)
+18:48:45 |c|~TheFenderStory|or
+18:48:46 |c|@Fiend Hound|that's not a thing
+18:48:47 |c|~TheFenderStory|you suck
+18:48:49 |c|%Cheek Pouch|lol
+18:48:52 |c|@Fiend Hound|uh no
+18:48:55 |b|battle-randombattle-4|@Fiend Hound|@WaterlessMelon
+18:48:55 |tournament|battlestart|Fiend Hound|WaterlessMelon|battle-randombattle-4
+18:49:01 |c|@Fiend Hound|no one could dq
+18:49:06 |c|@sparkychild|jasmine knows about this place 
+18:49:06 |c|~TheFenderStory|maybe
+18:49:10 |c|~TheFenderStory|mods don't have permission
+18:49:12 |c|~TheFenderStory|sparky
+18:49:14 |c|~TheFenderStory|did you 
+18:49:16 |c|~TheFenderStory|no
+18:49:18 |c|@sparkychild|no
+18:49:19 |c|@sparkychild|i tried
+18:49:22 |c|@Fiend Hound|zeril couldn't
+18:49:24 |c|@sparkychild|i even asked macle for the comamnd
+18:49:27 |c|~TheFenderStory|i mean
+18:49:28 |c|~TheFenderStory|did you
+18:49:36 |c|~TheFenderStory|ask jasmine to come here
+18:49:39 |c|~TheFenderStory|:o
+18:49:53 |c|@sparkychild|disqualify - Access denied.
+18:49:58 |c|@sparkychild|TheFenderStory of course not
+18:50:01 |c|@sparkychild|not that jasmine is on much
+18:50:13 |c|~TheFenderStory|it might be
+18:50:16 |c|@Fiend Hound|I actually don't know who she is 
+18:50:18 |c|~TheFenderStory|that only admins can do tours atm
+18:50:34 |c|@Fiend Hound|yeah 
+18:51:10 |c|%Cheek Pouch|Jasmine and I are friends 
+18:51:11 |j|&zeriloa
+18:51:15 |c|%Cheek Pouch|Jasmine is also a male
+18:51:18 |c|~TheFenderStory|zeril
+18:51:22 |c|%Cheek Pouch|named Rico
+18:51:29 |c|~TheFenderStory|go into the staff room
+18:51:31 |c|~TheFenderStory|and try to make a tour
+18:51:35 |c|%Cheek Pouch|zeril can I go
+18:51:37 |c|&zeriloa|what
+18:51:47 |c|%Cheek Pouch|TFS Mod me
+18:51:47 |l|&zeriloa
+18:51:54 |j|&zeriloa
+18:52:04 |c| Trickster|oh my god this discipline appeal is hilarious http://prntscr.com/4o5u56
+18:52:23 |c|@Fiend Hound|rofl
+18:52:33 |c|@cORPORALLEVi|seems pretty legitimate 
+18:52:37 |userstats|total:9|guests:0| :1|+:1|%:1|@:4|★:0|#:0|&:1|~:1
+18:52:40 |c|&zeriloa|doesn;'t workj
+18:52:41 |c|@cORPORALLEVi|I think he should be unbanned 
+18:53:35 |c|%Cheek Pouch|TheFenderStory
+18:53:43 |c|%Cheek Pouch|Mod me in the staff room
+18:53:44 |c|%Cheek Pouch|;D
+18:53:50 |c| Trickster|we're shitposting so hard on this appeal lmoa
+18:53:55 |c|~TheFenderStory|kiba
+18:53:59 |c|~TheFenderStory|i am busy
+18:54:04 |c|%Cheek Pouch|but I have swag
+18:54:05 |c|~TheFenderStory|please be quiet for a minute
+18:54:07 |c|~TheFenderStory|or i will end you
+18:54:08 |c|%Cheek Pouch|k bby
+18:54:12 |c|%Cheek Pouch|/me twerks away
+18:54:29 |c|@sparkychild|TheFenderStory according to the github mods should be able to do tours
+18:54:39 |c|~TheFenderStory|check this git
+18:54:47 |c|@sparkychild|if (!user.can('ban', null, room))
+18:54:47 |c|~TheFenderStory|https://github.com/TheFenderStory/FenderServer
+18:54:59 |c|~TheFenderStory|its the one i used to fix this server
+18:55:17 |tournament|battleend|Fiend Hound|WaterlessMelon|win|5,0
+18:55:17 |tournament|end|{"results":[["Fiend Hound"]],"format":"randombattle","generator":"Single Elimination","bracketData":{"type":"tree","rootNode":{"children":[{"children":[{"children":[{"children":[],"team":"Fiend Hound"},{"children":[],"team":"sparkychild"}],"state":"finished","team":"Fiend Hound","result":"win","score":[3,0]},{"children":[],"team":"vicious spell"}],"state":"finished","team":"Fiend Hound","result":"win","score":[1,0]},{"children":[{"children":[],"team":"TheFenderStory"},{"children":[],"team":"WaterlessMelon"}],"state":"finished","team":"WaterlessMelon","result":"loss","score":[4,5]}],"state":"finished","team":"Fiend Hound","result":"win","score":[5,0]}}}
+18:55:19 |c|@sparkychild|fender!!!!!
+18:55:24 |c|~TheFenderStory|yes
+18:55:27 |c|@Fiend Hound|qq 
+18:55:31 |c|@WaterlessMelon|qq
+18:55:35 |c|@sparkychild|imma make a paste bin of what you need to change
+18:55:35 |c|~TheFenderStory|qq
+18:55:35 |c|%Cheek Pouch|pp
+18:55:42 |c|@sparkychild|i know the problem
+18:55:42 |c|~TheFenderStory|sparky
+18:55:46 |c|~TheFenderStory|i can just add you as a contrib
+18:55:47 |c|~TheFenderStory|on git
+18:56:05 |c|@Fiend Hound|!ds spikes, thunder wave, lc
+18:56:06 |raw|<div class="infobox">Ferroseed</div>
+18:56:23 |c|%Cheek Pouch|!ds stealth rock, thunder wave, lc
+18:56:23 |raw|<div class="infobox">Bidoof, Ferroseed, Nosepass, Pawniard</div>

@@ -1,0 +1,55 @@
+
+ReferenceError: sanitize is not defined
+    at Object.exports.commands.declare (/Users/Dan/Desktop/FenderServer/commands.js:966:53)
+    at Object.exports.parse (/Users/Dan/Desktop/FenderServer/command-parser.js:347:31)
+    at Room.chat (/Users/Dan/Desktop/FenderServer/rooms.js:82:27)
+    at User.chat (/Users/Dan/Desktop/FenderServer/users.js:1443:9)
+    at Function.Users.socketReceive (/Users/Dan/Desktop/FenderServer/users.js:308:12)
+    at Worker.<anonymous> (/Users/Dan/Desktop/FenderServer/sockets.js:46:11)
+    at Worker.emit (events.js:98:17)
+    at ChildProcess.emit (events.js:98:17)
+    at handleMessage (child_process.js:322:10)
+    at Pipe.channel.onread (child_process.js:349:11)
+
+ReferenceError: sanitize is not defined
+    at Object.exports.commands.declare (/Users/Dan/Desktop/FenderServer/commands.js:966:53)
+    at Object.exports.parse (/Users/Dan/Desktop/FenderServer/command-parser.js:347:31)
+    at Room.chat (/Users/Dan/Desktop/FenderServer/rooms.js:82:27)
+    at User.chat (/Users/Dan/Desktop/FenderServer/users.js:1443:9)
+    at Function.Users.socketReceive (/Users/Dan/Desktop/FenderServer/users.js:308:12)
+    at Worker.<anonymous> (/Users/Dan/Desktop/FenderServer/sockets.js:46:11)
+    at Worker.emit (events.js:98:17)
+    at ChildProcess.emit (events.js:98:17)
+    at handleMessage (child_process.js:322:10)
+    at Pipe.channel.onread (child_process.js:349:11)
+
+ReferenceError: sanitize is not defined
+    at Object.exports.commands.declare (/Users/Dan/Desktop/FenderServer/commands.js:966:53)
+    at Object.exports.parse (/Users/Dan/Desktop/FenderServer/command-parser.js:347:31)
+    at Room.chat (/Users/Dan/Desktop/FenderServer/rooms.js:82:27)
+    at User.chat (/Users/Dan/Desktop/FenderServer/users.js:1443:9)
+    at Function.Users.socketReceive (/Users/Dan/Desktop/FenderServer/users.js:308:12)
+    at Worker.<anonymous> (/Users/Dan/Desktop/FenderServer/sockets.js:46:11)
+    at Worker.emit (events.js:98:17)
+    at ChildProcess.emit (events.js:98:17)
+    at handleMessage (child_process.js:322:10)
+    at Pipe.channel.onread (child_process.js:349:11)
+
+ReferenceError: sanitize is not defined
+    at Object.exports.commands.declare (/Users/Dan/Desktop/FenderServer/commands.js:966:53)
+    at Object.exports.parse (/Users/Dan/Desktop/FenderServer/command-parser.js:347:31)
+    at Room.chat (/Users/Dan/Desktop/FenderServer/rooms.js:82:27)
+    at User.chat (/Users/Dan/Desktop/FenderServer/users.js:1443:9)
+    at Function.Users.socketReceive (/Users/Dan/Desktop/FenderServer/users.js:308:12)
+    at Worker.<anonymous> (/Users/Dan/Desktop/FenderServer/sockets.js:46:11)
+    at Worker.emit (events.js:98:17)
+    at ChildProcess.emit (events.js:98:17)
+    at handleMessage (child_process.js:322:10)
+    at Pipe.channel.onread (child_process.js:349:11)
+
+ReferenceError: sanitize is not defined
+    at Object.exports.commands.declare (/Users/Dan/Desktop/FenderServer/commands.js:966:53)
+    at Object.exports.parse (/Users/Dan/Desktop/FenderServer/command-parser.js:347:31)
+    at Room.chat (/Users/Dan/Desktop/FenderServer/rooms.js:82:27)
+    at User.processChatQueue (/Users/Dan/Desktop/FenderServer/users.js:1459:13)
+    at Timer.listOnTimeout [as ontimeout] (timers.js:112:15)

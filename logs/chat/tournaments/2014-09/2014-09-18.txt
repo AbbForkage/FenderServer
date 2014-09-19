@@ -1,0 +1,27 @@
+15:50:11 NEW CHATROOM: tournaments
+15:52:38 NEW CHATROOM: tournaments
+16:02:38 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+16:12:38 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+16:22:38 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+16:27:49 |j|+trash
+16:27:50 |l|+trash
+16:32:38 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+16:42:38 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+16:52:38 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+16:56:02 |j| PokeMontreal
+17:02:18 |N|+PokeMontreal|pokemontreal
+17:02:37 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|#:0|&:0|~:0
+17:08:48 |j|+vicious spell
+17:08:49 |l|+vicious spell
+17:12:37 |userstats|total:1|guests:0| :0|+:1|%:0|@:0|★:0|#:0|&:0|~:0
+17:15:35 |l|+PokeMontreal
+17:22:37 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+17:32:37 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+17:42:37 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+17:52:37 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+18:02:37 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+18:12:37 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+18:22:37 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+18:32:37 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+18:42:37 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0
+18:52:37 |userstats|total:0|guests:0| :0|+:0|%:0|@:0|★:0|#:0|&:0|~:0

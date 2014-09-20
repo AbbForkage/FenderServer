@@ -854,7 +854,7 @@ CommandParser.commands.tournament = function (paramString, room, user) {
 		if (room.toursEnabled) {
 			if (!this.can('tournaments', null, room)) return;
 		} else {
-			if (!user.can('tournamentsmanagement', null, room)) {
+			if (!user.can('ban', null, room)) {
 				return this.sendReply("Tournaments are disabled in this room ("+room.id+").");
 			}
 		}
@@ -879,7 +879,7 @@ CommandParser.commands.tournament = function (paramString, room, user) {
 			if (room.toursEnabled) {
 				if (!this.can('tournaments', null, room)) return;
 			} else {
-				if (!user.can('tournamentsmanagement', null, room)) {
+				if (!user.can('ban', null, room)) {
 					return this.sendReply("Tournaments are disabled in this room ("+room.id+").");
 				}
 			}
@@ -887,7 +887,7 @@ CommandParser.commands.tournament = function (paramString, room, user) {
 		}
 
 		if (commands.moderation[cmd]) {
-			if (!user.can('tournamentsmoderation', null, room)) {
+			if (!user.can('ban', null, room)) {
 				return this.sendReply(cmd + " -  Access denied.");
 			}
 			commandHandler = typeof commands.moderation[cmd] === 'string' ? commands.moderation[commands.moderation[cmd]] : commands.moderation[cmd];
